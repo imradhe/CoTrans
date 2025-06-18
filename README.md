@@ -1,4 +1,4 @@
-# CoTrans: Colloquial Machine Translation with Fine-Tuning on Spoken Dialogue
+# CoTrans: Colloquial Machine Translation with Fine-Tuning on Transcribed Speech Data
 
 ## 🎯 Objective
 
